@@ -1,2 +1,2 @@
 # Projects
-ML/MLP/DL Projects
+ML/NLP/DL Projects
